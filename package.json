@@ -1,0 +1,23 @@
+{
+  "name": "japaneseTyping-server",
+  "version": "0.0.1",
+  "description": "server of japaneseTyping-websocket",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "ws": "^7.4.3"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+  ]
+}
